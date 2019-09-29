@@ -1,3 +1,15 @@
 # Description of your program (part 7)
+ This is a program enable to count the number of words in a document.
+1 Import a file address.
+2 The program is going to read the whole words in this file.
+3 Every time it read a blank space or punctuation after a letter,
+  the program will accumulate number which starts from zero.
+4 Once it finish the reading process, it will return the final cumulative number to the user.
 
 # Reflection on writing your program (part 8)
+It seems confusing at first, but I quickly find the meaning of this process.
+Every time before I design a program, I need to figure out the purpose and process of this program.
+It just like we need to have a draft or outline for our paper.
+Only when our logical method is clear can we approach our goal with the minimum number of codes.
+Hopefully, I'll be able to learn how to do more in python.
+Using this programming thinking to make it easier for me in my future works.
